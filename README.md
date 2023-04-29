@@ -1,7 +1,11 @@
 # FullStack Social Media App
 
-Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI
+Proyecto Node.js, Express, React y MongoDB
+Este es un proyecto web basado en Node.js, Express, React y MongoDB. La aplicación web permite a los usuarios crear cuentas, iniciar sesión, ver y editar su perfil, crear y editar publicaciones, y ver y comentar las publicaciones de otros usuarios.
 
-Video: https://www.youtube.com/watch?v=K8YELRmUb5o
+Requisitos
+Para ejecutar esta aplicación, necesitará tener instalado lo siguiente en su sistema:
 
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
+Node.js
+MongoDB
+npm
