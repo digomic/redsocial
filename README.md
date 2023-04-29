@@ -1,6 +1,6 @@
 # FullStack Social Media App
 
-![Uploading redsocial.png…]()
+![redsocial](https://user-images.githubusercontent.com/38227130/235321582-ec166365-353e-4b4b-9c97-d85a61c1d26c.png)
 
 
 Proyecto Node.js, Express, React y MongoDB
