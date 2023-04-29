@@ -9,3 +9,49 @@ Para ejecutar esta aplicación, necesitará tener instalado lo siguiente en su s
 Node.js
 MongoDB
 npm
+
+
+# Configuración
+
+Clone este repositorio en su máquina local:
+
+git clone https://github.com/digomic/redsocial
+
+Navegue hasta el directorio raíz del proyecto:
+
+cd redsocial
+Instale las dependencias del servidor:
+
+npm install
+Navegue hasta el directorio de la aplicación de cliente:
+
+
+cd client
+Instale las dependencias del cliente:
+
+npm install
+Vuelva al directorio raíz del proyecto:
+
+
+cd ..
+Cree un archivo .env en el directorio raíz del proyecto con la siguiente información:
+makefile
+
+MONGO_URI=YOUR_MONGO_URI
+SECRET_OR_KEY=YOUR_SECRET_KEY
+Reemplace YOUR_MONGO_URI con la URI de su base de datos MongoDB y YOUR_SECRET_KEY con una clave secreta de su elección.
+
+Ejecución
+Para ejecutar la aplicación, abra dos terminales.
+
+En la primera terminal, navegue hasta el directorio raíz del proyecto y ejecute el servidor:
+
+
+npm run server
+En la segunda terminal, navegue hasta el directorio de la aplicación de cliente y ejecute el cliente:
+
+npm start
+
+Contribución
+Si desea contribuir a este proyecto, abra un problema o envíe una solicitud de extracción.
+
